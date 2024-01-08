@@ -1,0 +1,12 @@
+D:\GitRepos\Proga3sem\C#\levenstain\bin\Debug\net8.0\levenstain.deps.json
+D:\GitRepos\Proga3sem\C#\levenstain\bin\Debug\net8.0\levenstain.dll
+D:\GitRepos\Proga3sem\C#\levenstain\bin\Debug\net8.0\levenstain.pdb
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.AssemblyInfoInputs.cache
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.AssemblyInfo.cs
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.csproj.CoreCompileInputs.cache
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.sourcelink.json
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.dll
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\refint\levenstain.dll
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\levenstain.pdb
+D:\GitRepos\Proga3sem\C#\levenstain\obj\Debug\net8.0\ref\levenstain.dll

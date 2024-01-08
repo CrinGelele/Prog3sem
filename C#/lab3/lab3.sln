@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab3.csproj", "{9F92BB54-DDD3-48F0-B1BA-3E47726E3B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "levenstain", "..\levenstain\levenstain.csproj", "{84FD98C2-92B2-4CE3-BC25-08B9EE5FA230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F92BB54-DDD3-48F0-B1BA-3E47726E3B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F92BB54-DDD3-48F0-B1BA-3E47726E3B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F92BB54-DDD3-48F0-B1BA-3E47726E3B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F92BB54-DDD3-48F0-B1BA-3E47726E3B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FD98C2-92B2-4CE3-BC25-08B9EE5FA230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FD98C2-92B2-4CE3-BC25-08B9EE5FA230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FD98C2-92B2-4CE3-BC25-08B9EE5FA230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FD98C2-92B2-4CE3-BC25-08B9EE5FA230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DA5296-99CE-49CD-85A2-0F0A7B9A7DDA}
+	EndGlobalSection
+EndGlobal

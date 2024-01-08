@@ -1,0 +1,15 @@
+D:\GitRepos\Proga3sem\C#\lab1\bin\Debug\net8.0\lab1.exe
+D:\GitRepos\Proga3sem\C#\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\GitRepos\Proga3sem\C#\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\GitRepos\Proga3sem\C#\lab1\bin\Debug\net8.0\lab1.dll
+D:\GitRepos\Proga3sem\C#\lab1\bin\Debug\net8.0\lab1.pdb
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.sourcelink.json
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.dll
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.pdb
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\GitRepos\Proga3sem\C#\lab1\obj\Debug\net8.0\ref\lab1.dll
